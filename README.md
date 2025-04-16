@@ -10,7 +10,7 @@ git clone https://github.com/muhammadarii/NitozaTest.git
 cd NitozaTest
 # lalu
 npm run dev
-# or
+# lalu
 maka akan running pada port:3000
 ```
 
