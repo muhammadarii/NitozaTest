@@ -9,6 +9,8 @@ git clone https://github.com/muhammadarii/NitozaTest.git
 # lalu
 cd NitozaTest
 # lalu
+npm install
+# lalu
 npm run dev
 # lalu
 maka akan running pada port:3000
